@@ -4,6 +4,18 @@
 >
 > **Caso de estudio:** https://alonsomarcosm.github.io/es/projects/telco-churn-mlops-databricks/
 
+![Databricks](https://img.shields.io/badge/Databricks-Lakehouse-FF3621?logo=databricks&logoColor=white)
+![Asset Bundles](https://img.shields.io/badge/Asset%20Bundles-databricks.yml-FF3621?logo=databricks&logoColor=white)
+![Pipelines](https://img.shields.io/badge/Pipelines-Medallion%20serverless-FF3621?logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-Bronze%20%7C%20Silver%20%7C%20Gold-00ADD4)
+![Spark MLlib](https://img.shields.io/badge/Spark-MLlib-E25A1C?logo=apachespark&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-Tracking%20%2B%20Registry-0194E2?logo=mlflow&logoColor=white)
+![Unity Catalog](https://img.shields.io/badge/Unity%20Catalog-Models%20%2B%20Tables-FF3621?logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-PySpark-3776AB?logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+![Dashboard de Databricks con tasa de churn, precisión del modelo, calibración y rendimiento por segmento](docs/portada.png)
+
 Proyecto académico aplicado de **Big Data, Data Engineering y MLOps** desarrollado
 sobre **Databricks Lakehouse** para predecir la fuga de clientes en una compañía
 de telecomunicaciones a partir de datos sintéticos.
