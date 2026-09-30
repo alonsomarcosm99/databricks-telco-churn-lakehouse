@@ -1,8 +1,8 @@
 # Lakehouse y MLOps de churn telco
 
-> **Documentación técnica:** https://alonsomarcosm.github.io/databricks-telco-churn-lakehouse/
+> **Documentación técnica:** https://alonsomarcosm99.github.io/databricks-telco-churn-lakehouse/
 >
-> **Caso de estudio:** https://alonsomarcosm.github.io/es/projects/telco-churn-mlops-databricks/
+> **Caso de estudio:** https://alonsomarcosm99.github.io/es/projects/telco-churn-mlops-databricks/
 
 ![Databricks](https://img.shields.io/badge/Databricks-Lakehouse-FF3621?logo=databricks&logoColor=white)
 ![Asset Bundles](https://img.shields.io/badge/Asset%20Bundles-databricks.yml-FF3621?logo=databricks&logoColor=white)
