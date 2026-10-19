@@ -1,5 +1,9 @@
 # Lakehouse y MLOps de churn telco
 
+**En una frase:** Lakehouse en Databricks que predice la baja de clientes de una operadora con datos sintéticos de 2 millones de clientes. Ingiere de forma incremental con Auto Loader, modela en arquitectura Medallion (Bronze → Silver → Gold) con reglas de calidad, cuarentena e histórico de clientes SCD Type 2, construye un dataset point-in-time de 16,3 millones de filas cliente-mes y gobierna el modelo en MLflow y Unity Catalog con alias champion y challenger. Un job diario ejecuta pipeline, features e inferencia, otro semanal reentrena, todo se despliega con Databricks Asset Bundles y GitHub Actions valida código, contratos del bundle y secretos en cada push.
+
+**In one sentence:** Databricks lakehouse that predicts telecom customer churn on synthetic data for 2 million customers. It ingests incrementally with Auto Loader, models data in a Medallion architecture (Bronze → Silver → Gold) with quality rules, quarantine and SCD Type 2 customer history, builds a 16.3 million row point-in-time customer-month dataset and governs the model in MLflow and Unity Catalog with champion and challenger aliases. A daily job runs the pipeline, features and inference, a weekly job retrains, everything deploys with Databricks Asset Bundles and GitHub Actions checks code, bundle contracts and secrets on every push.
+
 > **Documentación técnica:** https://alonsomarcosm99.github.io/databricks-telco-churn-lakehouse/
 >
 > **Caso de estudio:** https://alonsomarcosm99.github.io/es/projects/telco-churn-mlops-databricks/
